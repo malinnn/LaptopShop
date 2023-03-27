@@ -9,7 +9,10 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="300dp"
-        android:text="proba proba proba proba proba proba proba proba proba proba proba proba proba proba proba proba "
-        android:textAlignment="textStart" />
+        android:text="   We, &quot;Laptops Paradise&quot;, are a brand new company that wants to make the process of buying a laptop as easy as possible.\n   As of right now, we are offering our services stricly through our mobile app, which you are using right now.\n   This company took birth in early 2023, with the idea presented above in mind.\n   For any issues, don't hesitate to contact us and we will gladly help you. Also, please contact us regarding impromevents or specific request that you would like to see from us. Have fun shopping !"
+        android:textAlignment="textStart"
+        android:textColor="#FFFFFF"
+        android:textSize="17sp"
+        android:textStyle="italic" />
 
 </FrameLayout>
